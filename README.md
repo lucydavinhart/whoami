@@ -5,8 +5,6 @@ $ curl -s https://whoami.lmhd.me/
 Lucy Mægan Heather Artemis Davinhart
 ```
 
-It Me.
-
 # [whoami.lmhd.me](https://whoami.lmhd.me/)
 
 An API to find out who I am.
