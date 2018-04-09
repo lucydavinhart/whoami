@@ -1,5 +1,9 @@
 {
-	"full_name": "Lucy Mægan Heather Artemis Davies",
+	"full_name": {
+		"preferred": "Lucy Mægan Heather Artemis Davinhart",
+		"canonical": "Lucy Mægan Heather Artemis Davies",
+		"alternatives": []
+	},
 	"first_name": {
 		"canonical": "Lucy",
 		"alternatives": [
@@ -23,7 +27,8 @@
 		}
 	],
 	"family_name": {
-		"legal": "Davies",
-		"preferred": "Davinhart"
+		"preferred": "Davinhart",
+		"canonical": "Davies",
+		"alternatives": []
 	}
 }
