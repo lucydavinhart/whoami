@@ -1,11 +1,20 @@
 {
+	"initials": {
+		"preferred": "LMHD",
+		"canonical": "LMHAD",
+		"alternatives": []
+	},
 	"full_name": {
 		"preferred": "Lucy Mægan Heather Artemis Davinhart",
 		"canonical": "Lucy Mægan Heather Artemis Davies",
-		"alternatives": []
+		"alternatives": [
+			"Lucy Maegan Heather Artemis Davinhart",
+			"Lucy Maegan Heather Artemis Davies"
+		]
 	},
 	"first_name": {
 		"canonical": "Lucy",
+		"preferred": "Lucy",
 		"alternatives": [
 			"Liùsaidh", "Liusaidh",
 			"Lucidora",
@@ -15,14 +24,17 @@
 	"middle_names": [
 		{
 			"canonical": "Mægan",
+			"preferred": "Mægan",
 			"alternatives": ["Maegan"]
 		},
 		{
 			"canonical": "Heather",
+			"preferred": "Heather",
 			"alternatives": []
 		},
 		{
 			"canonical": "Artemis",
+			"preferred": "Artemis",
 			"alternaives": []
 		}
 	],
