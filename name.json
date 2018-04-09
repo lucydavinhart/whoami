@@ -1,1 +1,29 @@
-Lucy Mægan Heather Artemis Davies
+{
+	"full_name": "Lucy Mægan Heather Artemis Davies",
+	"first_name": {
+		"canonical": "Lucy",
+		"alternatives": [
+			"Liùsaidh", "Liusaidh",
+			"Lucidora",
+			"Lucille"
+		]
+	},
+	"middle_names": [
+		{
+			"canonical": "Mægan",
+			"alternatives": ["Maegan"]
+		},
+		{
+			"canonical": "Heather",
+			"alternatives": []
+		},
+		{
+			"canonical": "Artemis",
+			"alternaives": []
+		}
+	],
+	"family_name": {
+		"legal": "Davies",
+		"preferred": "Davinhart"
+	}
+}
