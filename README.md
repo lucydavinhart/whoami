@@ -47,6 +47,12 @@ Social media stuff, I guess?
 
 
 
+## [/quest(.json)](https://whoami.lmhd.me/quest)
+
+What do I do?
+
+
+
 ## [/branding/color(.json)](https://whoami.lmhd.me/branding/color)
 
 Yes, I have an official hex code.
