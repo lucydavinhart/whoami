@@ -5,5 +5,21 @@
     "red": 204,
     "green": 0,
     "blue": 102
+  },
+  "pantone": {
+    "name": "Rubine Red C",
+    "hex": "ce0058",
+    "rgb": {
+      "red": 206,
+      "green": 0,
+      "blue": 88
+    },
+    "cmyk": {
+      "cyan": 0,
+      "magenta": 100,
+      "yellow": 22,
+      "key": 3
+    },
+    "url": "https://store.pantone.com/uk/en/colorfinder/index/acfproduct/code/Rubine+Red+C"
   }
 }
