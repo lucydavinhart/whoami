@@ -17,7 +17,7 @@ Lucy Heather Davies
 Lucy Maegan Heather Davies
 
 ## v1.0.0 - official release - 2009 ish
-(first deed poll)
+(deed poll #1)
 
 Lucy Maegan Heather Davies
 
@@ -32,7 +32,7 @@ Lucy Mægan Heather Artemis Davies
 (would have been a patch version, were it not for the fact that v1.1.0 has not yet been released)
 
 ## v1.1.0 - official release - 2012 ish
-(deed poll)
+(deed poll #2)
 
 Lucy Mægan Heather Artemis Davies
 
@@ -49,5 +49,6 @@ Lucy Mægan Heather Artemis Julian Davinhart
 Lusitania Mægan Heather Artemis Julian Davinhart
 
 ## v1.2.0 - official release - 2019 ish
+(deed poll #3)
 
 Lucy Mægan Heather Artemis Davinhart
