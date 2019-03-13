@@ -6,9 +6,10 @@
 	},
 	"full_name": {
 		"preferred": "Lucy Mægan Heather Artemis Davinhart",
-		"canonical": "Lucy Mægan Heather Artemis Davies",
+		"canonical": "Lucy Mægan Heather Artemis Davinhart",
 		"alternatives": [
 			"Lucy Maegan Heather Artemis Davinhart",
+			"Lucy Mægan Heather Artemis Davies",
 			"Lucy Maegan Heather Artemis Davies"
 		]
 	},
@@ -41,7 +42,10 @@
 	],
 	"family_name": {
 		"preferred": "Davinhart",
-		"canonical": "Davies",
-		"alternatives": []
-	}
+		"canonical": "Davinhart",
+		"alternatives": [
+			"Davies"
+		]
+	},
+	"version": "1.2.0"
 }
