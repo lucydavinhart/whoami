@@ -1,51 +1,54 @@
 {
-	"initials": {
-		"preferred": "LMHD",
-		"canonical": "LMHAD",
-		"alternatives": []
-	},
-	"full_name": {
-		"preferred": "Lucy Mægan Heather Artemis Davinhart",
-		"canonical": "Lucy Mægan Heather Artemis Davinhart",
-		"alternatives": [
-			"Lucy Maegan Heather Artemis Davinhart",
-			"Lucy Mægan Heather Artemis Davies",
-			"Lucy Maegan Heather Artemis Davies"
-		]
-	},
-	"first_name": {
-		"canonical": "Lucy",
-		"preferred": "Lucy",
-		"alternatives": [
-			"Lusitania",
-			"Liùsaidh", "Liusaidh",
-			"Lucidora",
-			"Lucille"
-		]
-	},
-	"middle_names": [
-		{
-			"canonical": "Mægan",
-			"preferred": "Mægan",
-			"alternatives": ["Maegan"]
-		},
-		{
-			"canonical": "Heather",
-			"preferred": "Heather",
-			"alternatives": []
-		},
-		{
-			"canonical": "Artemis",
-			"preferred": "Artemis",
-			"alternatives": []
-		}
-	],
-	"family_name": {
-		"preferred": "Davinhart",
-		"canonical": "Davinhart",
-		"alternatives": [
-			"Davies"
-		]
-	},
-	"version": "1.2.0"
+  "initials": {
+    "preferred": "LMHD",
+    "canonical": "LMHAD",
+    "alternatives": []
+  },
+  "full_name": {
+    "preferred": "Lucy Mægan Heather Artemis Davinhart",
+    "canonical": "Lucy Mægan Heather Artemis Davinhart",
+    "alternatives": [
+      "Lucy Maegan Heather Artemis Davinhart",
+      "Lucy Mægan Heather Artemis Davies",
+      "Lucy Maegan Heather Artemis Davies"
+    ]
+  },
+  "first_name": {
+    "canonical": "Lucy",
+    "preferred": "Lucy",
+    "alternatives": [
+      "Lusitania",
+      "Liùsaidh",
+      "Liusaidh",
+      "Lucidora",
+      "Lucille"
+    ]
+  },
+  "middle_names": [
+    {
+      "canonical": "Mægan",
+      "preferred": "Mægan",
+      "alternatives": [
+        "Maegan"
+      ]
+    },
+    {
+      "canonical": "Heather",
+      "preferred": "Heather",
+      "alternatives": []
+    },
+    {
+      "canonical": "Artemis",
+      "preferred": "Artemis",
+      "alternatives": []
+    }
+  ],
+  "family_name": {
+    "preferred": "Davinhart",
+    "canonical": "Davinhart",
+    "alternatives": [
+      "Davies"
+    ]
+  },
+  "version": "1.2.0"
 }
