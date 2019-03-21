@@ -1,14 +1,14 @@
 [
-	{
-		"site": "Home",
-		"url": "https://lmhd.me"
-	},
-	{
-		"site": "Twitter",
-		"url": "https://twitter.com/LucyDavinhart"
-	},
-	{
-		"site": "GitHub",
-		"url": "https://github.com/lucymhdavies"
-	}
+  {
+    "site": "Home",
+    "url": "https://lmhd.me"
+  },
+  {
+    "site": "Twitter",
+    "url": "https://twitter.com/LucyDavinhart"
+  },
+  {
+    "site": "GitHub",
+    "url": "https://github.com/lucymhdavies"
+  }
 ]
