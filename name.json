@@ -5,12 +5,12 @@
     "alternatives": []
   },
   "full_name": {
-    "preferred": "Lucy Mægan Heather Artemis Davinhart",
+    "preferred": "Lucy Mægan Heather Artemis Kaiya Davinhart",
     "canonical": "Lucy Mægan Heather Artemis Davinhart",
     "alternatives": [
-      "Lucy Maegan Heather Artemis Davinhart",
-      "Lucy Mægan Heather Artemis Davies",
-      "Lucy Maegan Heather Artemis Davies"
+      "Lucy Maegan Heather Artemis Kaiya Davinhart",
+      "Lucy Mægan Heather Artemis Kaiya Davies",
+      "Lucy Maegan Heather Artemis Kaiya Davies"
     ]
   },
   "first_name": {
@@ -41,6 +41,10 @@
       "canonical": "Artemis",
       "preferred": "Artemis",
       "alternatives": []
+    },
+    {
+      "preferred": "Kaiya",
+      "alternatives": []
     }
   ],
   "family_name": {
@@ -50,5 +54,5 @@
       "Davies"
     ]
   },
-  "version": "1.2.0"
+  "version": "1.3.0-beta0"
 }
