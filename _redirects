@@ -1,0 +1,7 @@
+
+#
+# Redirect to new Serverless APIs
+#
+
+/name         https://api.lmhd.me/v1/name.json
+/name.json    https://api.lmhd.me/v1/name.json

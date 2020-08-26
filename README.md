@@ -5,6 +5,15 @@ $ curl -s https://whoami.lmhd.me/
 Lucy Mægan Heather Artemis Davinhart
 ```
 
+# v2 Coming Soon!
+
+The current https://whoami.lmhd.me/ is being decommissioned and replaced with a shiny new v2 API!
+
+I will be adding redirects for all this version of the API's responses as I go.
+
+For example `https://whoami.lmhd.me/` --> `https://api.lmhd.me/v1/name.json`
+
+
 # [whoami.lmhd.me](https://whoami.lmhd.me/)
 
 An API to find out who I am.
@@ -13,7 +22,9 @@ An API to find out who I am.
 
 Returns `/name`'s `full_name.preferred`
 
-## [/name(.json)](https://whoami.lmhd.me/name)
+## [/name(.json)](https://api.lmhd.me/v1/name.json)
+
+MOVED: https://api.lmhd.me/v1/name.json
 
 Names.
 
