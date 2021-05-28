@@ -60,6 +60,8 @@ Social media stuff, I guess?
 
 ## [/quest(.json)](https://whoami.lmhd.me/quest)
 
+MOVED: https://api.lmhd.me/v1/quest.json
+
 What do I do?
 
 
